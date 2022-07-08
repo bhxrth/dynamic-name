@@ -11,5 +11,14 @@ export class StudentComponent implements OnInit {
 
   ngOnInit(): void {
   }
-name="Sasi"
+data=[
+{"name":"Rahul","age":19,"photo":"https://cdn.pixabay.com/photo/2016/03/31/19/58/avatar-1295429__340.png"},
+{"name":"Kirmada","age":20,"photo":"https://cdn.pixabay.com/photo/2016/03/31/19/58/avatar-1295429__340.png"},
+{"name":"Athul","age":18,"photo":"https://cdn.pixabay.com/photo/2016/03/31/19/58/avatar-1295429__340.png"},
+{"name":"Nibin","age":20,"photo":"https://cdn.pixabay.com/photo/2016/03/31/19/58/avatar-1295429__340.png"},
+{"name":"Jishnu","age":19,"photo":"https://cdn.pixabay.com/photo/2016/03/31/19/58/avatar-1295429__340.png"},
+{"name":"Shaheen","age":18,"photo":"https://cdn.pixabay.com/photo/2016/03/31/19/58/avatar-1295429__340.png"}
+]
+
 }
+
